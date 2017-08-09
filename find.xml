@@ -1,0 +1,43 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="selection" />
+    <recentFileMasks>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.</mask>
+      <mask>build.gr</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gw</mask>
+      <mask>*.gwt</mask>
+      <mask>*.gwt.c</mask>
+      <mask>*.gwt.</mask>
+      <mask>*.gwt.x</mask>
+      <mask>*.gwt.xmkl</mask>
+      <mask>*.gwt.xmk</mask>
+      <mask>*.gwt.xm</mask>
+      <mask>*.gwt.xml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
