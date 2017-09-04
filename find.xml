@@ -4,30 +4,16 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>b</mask>
-      <mask>bu</mask>
-      <mask>bui</mask>
-      <mask>buil</mask>
       <mask>build</mask>
-      <mask>build.</mask>
-      <mask>build.gr</mask>
-      <mask>build.grad</mask>
-      <mask>build.gradle</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
@@ -41,6 +27,17 @@
       <mask>*.gwt.xm</mask>
       <mask>*.gwt.xml</mask>
       <mask>*.java</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build.</mask>
+      <mask>build.g</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.graf</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
