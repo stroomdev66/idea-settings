@@ -7,10 +7,9 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>build</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gw</mask>
       <mask>*.gwt</mask>
@@ -21,7 +20,6 @@
       <mask>*.gwt.xmk</mask>
       <mask>*.gwt.xm</mask>
       <mask>*.gwt.xml</mask>
-      <mask>*.java</mask>
       <mask>b</mask>
       <mask>bu</mask>
       <mask>bui</mask>
@@ -32,12 +30,15 @@
       <mask>build.gra</mask>
       <mask>build.graf</mask>
       <mask>build.grad</mask>
-      <mask>build.gradle</mask>
       <mask>.</mask>
       <mask>.sql</mask>
       <mask>*.sql</mask>
       <mask>*.n</mask>
       <mask>*.node</mask>
+      <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
