@@ -5,9 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.gw</mask>
       <mask>*.gwt</mask>
       <mask>*.gwt.c</mask>
       <mask>*.gwt.</mask>
@@ -29,14 +28,15 @@
       <mask>*.sql</mask>
       <mask>*.n</mask>
       <mask>*.node</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>b</mask>
       <mask>bui</mask>
       <mask>*.java</mask>
       <mask>build.gradle</mask>
       <mask>build.j</mask>
       <mask>build.java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
