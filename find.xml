@@ -28,7 +28,6 @@
       <mask>b</mask>
       <mask>bui</mask>
       <mask>*.java</mask>
-      <mask>build.gradle</mask>
       <mask>build.j</mask>
       <mask>build.java</mask>
       <mask>*</mask>
@@ -36,6 +35,7 @@
       <mask>*.xml</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
