@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.gwt.c</mask>
       <mask>*.gwt.</mask>
@@ -25,7 +26,6 @@
       <mask>*.node</mask>
       <mask>b</mask>
       <mask>bui</mask>
-      <mask>*.java</mask>
       <mask>build.j</mask>
       <mask>build.java</mask>
       <mask>*</mask>
@@ -34,6 +34,7 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>build.gradle</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
