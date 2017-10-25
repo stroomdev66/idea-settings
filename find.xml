@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gwt.xml" />
     <recentFileMasks>
-      <mask>*.gwt.</mask>
-      <mask>*.gwt.x</mask>
-      <mask>*.gwt.xmkl</mask>
-      <mask>*.gwt.xmk</mask>
-      <mask>*.gwt.xm</mask>
-      <mask>*.gwt.xml</mask>
       <mask>bu</mask>
       <mask>buil</mask>
       <mask>build.</mask>
@@ -38,6 +33,12 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*.g</mask>
+      <mask>*.gw</mask>
+      <mask>*.gwt</mask>
+      <mask>*.gwt.</mask>
+      <mask>*.gwt.x</mask>
+      <mask>*.gwt.xml</mask>
     </recentFileMasks>
   </component>
 </application>
