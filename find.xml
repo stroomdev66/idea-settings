@@ -8,27 +8,9 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>buil</mask>
-      <mask>build.</mask>
-      <mask>build.g</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
-      <mask>build.graf</mask>
-      <mask>build.grad</mask>
-      <mask>.</mask>
-      <mask>.sql</mask>
-      <mask>*.n</mask>
-      <mask>*.node</mask>
-      <mask>b</mask>
-      <mask>bui</mask>
-      <mask>build.j</mask>
-      <mask>build.java</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.sq</mask>
       <mask>*.java</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.sql</mask>
       <mask>*.g</mask>
       <mask>*.gw</mask>
@@ -38,6 +20,24 @@
       <mask>*.gwt.xml</mask>
       <mask>build.gradle</mask>
       <mask>*.gradle</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>bi</mask>
+      <mask>b</mask>
+      <mask>bu</mask>
+      <mask>bui</mask>
+      <mask>buil</mask>
+      <mask>build</mask>
+      <mask>build.c</mask>
+      <mask>build.</mask>
+      <mask>build.x</mask>
+      <mask>build.xml</mask>
+      <mask>uild.xml</mask>
+      <mask>ild.xml</mask>
+      <mask>ld.xml</mask>
+      <mask>d.xml</mask>
+      <mask>.xml</mask>
+      <mask>xml</mask>
     </recentFileMasks>
   </component>
 </application>
