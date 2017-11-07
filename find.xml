@@ -6,9 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.gwt.x</mask>
-      <mask>*.gwt.xml</mask>
-      <mask>build.gradle</mask>
       <mask>*.gradle</mask>
       <mask>*.</mask>
       <mask>*</mask>
@@ -27,7 +24,6 @@
       <mask>ld.xml</mask>
       <mask>d.xml</mask>
       <mask>.xml</mask>
-      <mask>xml</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.c</mask>
@@ -36,6 +32,10 @@
       <mask>pom.xmlk</mask>
       <mask>pom.xm</mask>
       <mask>pom.xml</mask>
+      <mask>(xml</mask>
+      <mask>xml</mask>
+      <mask>*xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
