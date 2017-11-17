@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
-      <mask>build.</mask>
-      <mask>build.x</mask>
-      <mask>build.xml</mask>
-      <mask>uild.xml</mask>
-      <mask>ild.xml</mask>
-      <mask>ld.xml</mask>
-      <mask>d.xml</mask>
       <mask>.xml</mask>
       <mask>pom.c</mask>
       <mask>pom.xmlk</mask>
@@ -36,6 +30,13 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>build.xml</mask>
+      <mask>build.xm</mask>
+      <mask>build.</mask>
+      <mask>build.gr</mask>
+      <mask>build.gra</mask>
+      <mask>build.grad</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
