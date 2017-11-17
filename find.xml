@@ -5,13 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>bu</mask>
-      <mask>bui</mask>
-      <mask>buil</mask>
-      <mask>build</mask>
-      <mask>build.c</mask>
       <mask>build.</mask>
       <mask>build.x</mask>
       <mask>build.xml</mask>
@@ -27,8 +21,6 @@
       <mask>xml</mask>
       <mask>*xml</mask>
       <mask>*.xml</mask>
-      <mask>*.gradle</mask>
-      <mask>b</mask>
       <mask>po</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
@@ -37,6 +29,13 @@
       <mask>pom.x,</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>b</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
