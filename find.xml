@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>.xml</mask>
-      <mask>pom.c</mask>
       <mask>pom.xmlk</mask>
       <mask>pom.xm</mask>
       <mask>(xml</mask>
@@ -20,8 +19,6 @@
       <mask>pom.x,;</mask>
       <mask>pom.x,</mask>
       <mask>b</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
@@ -38,6 +35,10 @@
       <mask>build.gra</mask>
       <mask>build.grad</mask>
       <mask>build.gradle</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
