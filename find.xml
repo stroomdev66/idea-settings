@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <recentFileMasks>
       <mask>pom.x,;</mask>
       <mask>pom.x,</mask>
@@ -34,8 +35,8 @@
       <mask>*.gwt.</mask>
       <mask>*.gwt.xml</mask>
       <mask>*.j</mask>
-      <mask>build.gradle</mask>
       <mask>*.java</mask>
+      <mask>build.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
