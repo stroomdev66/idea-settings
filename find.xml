@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ui.xml" />
     <recentFileMasks>
-      <mask>pom.x,;</mask>
-      <mask>pom.x,</mask>
-      <mask>b</mask>
-      <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>po</mask>
@@ -36,6 +33,10 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.gradle</mask>
+      <mask>*.ui</mask>
+      <mask>*.ui.</mask>
+      <mask>*.ui.x</mask>
+      <mask>*.ui.xml</mask>
     </recentFileMasks>
   </component>
 </application>
