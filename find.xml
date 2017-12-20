@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gwt.xml" />
     <recentFileMasks>
       <mask>*.gra</mask>
       <mask>*.grad</mask>
@@ -23,7 +24,6 @@
       <mask>*.gw</mask>
       <mask>*.gwt</mask>
       <mask>*.gwt.</mask>
-      <mask>*.gwt.xml</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
       <mask>build.gradle</mask>
@@ -36,6 +36,7 @@
       <mask>*.ui.</mask>
       <mask>*.ui.x</mask>
       <mask>*.ui.xml</mask>
+      <mask>*.gwt.xml</mask>
     </recentFileMasks>
   </component>
 </application>
