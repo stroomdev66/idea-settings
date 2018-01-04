@@ -3,17 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.gra</mask>
-      <mask>*.grad</mask>
-      <mask>po</mask>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
       <mask>pom.xml</mask>
       <mask>build.xml</mask>
       <mask>build.xm</mask>
@@ -25,19 +18,25 @@
       <mask>*.gw</mask>
       <mask>*.gwt</mask>
       <mask>*.gwt.</mask>
-      <mask>*.j</mask>
       <mask>build.gradle</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.gradle</mask>
       <mask>*.ui</mask>
       <mask>*.ui.</mask>
       <mask>*.ui.x</mask>
       <mask>*.ui.xml</mask>
       <mask>*.gwt.xml</mask>
       <mask>*.java</mask>
+      <mask>*.jgr</mask>
+      <mask>*.jg</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
