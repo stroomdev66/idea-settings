@@ -8,21 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>pom.xml</mask>
-      <mask>build.xml</mask>
-      <mask>build.xm</mask>
-      <mask>build.</mask>
-      <mask>build.gr</mask>
-      <mask>build.gra</mask>
-      <mask>build.grad</mask>
-      <mask>*.g</mask>
-      <mask>*.gw</mask>
-      <mask>*.gwt</mask>
-      <mask>*.gwt.</mask>
-      <mask>build.gradle</mask>
-      <mask>*</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.ui</mask>
       <mask>*.ui.</mask>
       <mask>*.ui.x</mask>
@@ -38,6 +23,21 @@
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*Tas</mask>
+      <mask>*Tash</mask>
+      <mask>*TashH</mask>
+      <mask>*TashHa</mask>
+      <mask>*TashHand</mask>
+      <mask>*TashHandler</mask>
+      <mask>*TashHandler.</mask>
+      <mask>*TashHandler.j</mask>
+      <mask>*TashHandler.ja</mask>
+      <mask>*TashHandler.java</mask>
+      <mask>*TaskHandler.java</mask>
+      <mask>*TasHandler.java</mask>
+      <mask>*TaHandler.java</mask>
+      <mask>*THandler.java</mask>
+      <mask>*Handler.java</mask>
     </recentFileMasks>
   </component>
 </application>
