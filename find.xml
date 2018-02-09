@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.ui</mask>
       <mask>*.ui.</mask>
@@ -19,7 +20,6 @@
       <mask>*.gra</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
-      <mask>*.gradle</mask>
       <mask>*Tas</mask>
       <mask>*Tash</mask>
       <mask>*TashH</mask>
@@ -36,6 +36,7 @@
       <mask>*THandler.java</mask>
       <mask>*Handler.java</mask>
       <mask>*.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
