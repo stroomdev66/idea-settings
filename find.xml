@@ -2,9 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.grad*" />
     <recentFileMasks>
-      <mask>*.ui.xml</mask>
       <mask>*.gwt.xml</mask>
       <mask>*.jgr</mask>
       <mask>*.jg</mask>
@@ -34,6 +36,7 @@
       <mask>*.xsl</mask>
       <mask>*Configurat*</mask>
       <mask>*Module*</mask>
+      <mask>*.grad*</mask>
     </recentFileMasks>
   </component>
 </application>
