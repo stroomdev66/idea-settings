@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Module*" />
     <recentFileMasks>
       <mask>*.gwt.xml</mask>
       <mask>*.jgr</mask>
@@ -34,8 +35,8 @@
       <mask>*.gradle</mask>
       <mask>*.xsl</mask>
       <mask>*Configurat*</mask>
-      <mask>*Module*</mask>
       <mask>*.grad*</mask>
+      <mask>*Module*</mask>
     </recentFileMasks>
   </component>
 </application>
