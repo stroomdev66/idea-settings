@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.jgr</mask>
       <mask>*.jg</mask>
@@ -31,9 +32,9 @@
       <mask>*Configurat*</mask>
       <mask>*.grad*</mask>
       <mask>*Module*</mask>
-      <mask>*.gradle</mask>
       <mask>*.java</mask>
       <mask>*Module.java</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
