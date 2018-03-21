@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*gradle" />
     <recentFileMasks>
-      <mask>*.jgr</mask>
       <mask>*.jg</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -39,6 +38,7 @@
       <mask>*Module.java</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*gradle</mask>
     </recentFileMasks>
   </component>
 </application>
