@@ -3,9 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Open Files" />
     <option name="defaultScopeName" value="Open Files" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +19,6 @@
     <mask>*Handler.java</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
