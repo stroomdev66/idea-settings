@@ -18,7 +18,7 @@
     <mask>*ser.java</mask>
     <mask>*Module.java</mask>
     <mask>*.sql</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
