@@ -21,8 +21,8 @@
     <mask>*Module.java</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>javadoc</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
