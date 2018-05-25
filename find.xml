@@ -13,7 +13,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*Handler.java</mask>
     <mask>*Criter*.java</mask>
@@ -26,5 +25,6 @@
     <mask>module-info.java</mask>
     <mask>pom.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.css</mask>
   </component>
 </application>
