@@ -30,8 +30,8 @@
     <mask>*.gwt*</mask>
     <mask>*.ui.xml</mask>
     <mask>*Stat*</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
+    <mask>*.gradle</mask>
     <mask>*.java</mask>
   </component>
 </application>
