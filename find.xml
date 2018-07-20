@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gitignore" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,5 +32,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.gitignore</mask>
   </component>
 </application>
