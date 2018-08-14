@@ -28,7 +28,7 @@
     <mask>*Module.java</mask>
     <mask>*.gitignore</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
