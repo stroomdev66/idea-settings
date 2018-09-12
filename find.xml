@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gwt.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,7 +21,6 @@
     <mask>*.yml</mask>
     <mask>javadoc</mask>
     <mask>pom.xml</mask>
-    <mask>*.gwt.xml</mask>
     <mask>*.gwt*</mask>
     <mask>*Stat*</mask>
     <mask>V6*sql</mask>
@@ -32,5 +32,6 @@
     <mask>*.ui.xml</mask>
     <mask>*.gradle</mask>
     <mask>module-info.java</mask>
+    <mask>*.gwt.xml</mask>
   </component>
 </application>
