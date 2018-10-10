@@ -27,8 +27,8 @@
     <mask>*.ui.xml</mask>
     <mask>module-info.java</mask>
     <mask>*.gwt.xml</mask>
-    <mask>*.gradle</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
