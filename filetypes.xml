@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="nxml" type="PLAIN_TEXT" />
       <mapping ext="ds" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
