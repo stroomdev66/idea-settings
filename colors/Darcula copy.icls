@@ -3,15 +3,10 @@
     <property name="created">2019-01-08T15:01:40</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-01-08T15:03:33</property>
+    <property name="modified">2019-01-08T15:14:56</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <attributes>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="bbbbbb" />
-        <option name="BACKGROUND" value="0" />
-      </value>
-    </option>
-  </attributes>
+  <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+  </colors>
 </scheme>
