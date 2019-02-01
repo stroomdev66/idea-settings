@@ -6,6 +6,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="nxml" type="PLAIN_TEXT" />
       <mapping ext="ds" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
