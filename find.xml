@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,13 +31,13 @@
     <mask>*.css</mask>
     <mask>Test*.java</mask>
     <mask>ace.js</mask>
-    <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.gwt.xml</mask>
     <mask>*Module.java</mask>
-    <mask>V7*.sql</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>*.gradle</mask>
+    <mask>V7*.sql</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
