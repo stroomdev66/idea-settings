@@ -33,8 +33,8 @@
     <mask>*Module.java</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
-    <mask>*.gradle</mask>
     <mask>V7*.sql</mask>
     <mask>*.sql</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
