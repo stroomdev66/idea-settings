@@ -28,12 +28,12 @@
     <mask>Test*.java</mask>
     <mask>ace.js</mask>
     <mask>*.yml</mask>
-    <mask>*.gwt.xml</mask>
     <mask>*Module.java</mask>
     <mask>*.java</mask>
     <mask>*Test.java</mask>
     <mask>V7*.sql</mask>
     <mask>*.sql</mask>
+    <mask>*.gwt.xml</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
