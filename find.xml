@@ -32,7 +32,7 @@
     <mask>V7*.sql</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
-    <mask>*.gwt.xml</mask>
     <mask>*.gradle</mask>
+    <mask>*.gwt.xml</mask>
   </component>
 </application>
