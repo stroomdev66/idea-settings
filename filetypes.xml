@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="V07_00_00_002__processor_nodesql" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="nxml" type="PLAIN_TEXT" />
       <mapping ext="ds" type="PLAIN_TEXT" />
