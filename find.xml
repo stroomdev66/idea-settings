@@ -1,13 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.gwt.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -33,9 +32,9 @@
     <mask>*Test.java</mask>
     <mask>V7*.sql</mask>
     <mask>*.yml</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.gwt.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
