@@ -33,7 +33,7 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.gwt.xml</mask>
     <mask>*.ui.xml</mask>
+    <mask>*.gwt.xml</mask>
   </component>
 </application>
